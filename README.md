@@ -1,2 +1,2 @@
 # Exemplos-git
-Estudando Git
+Estudando comandos so Git
